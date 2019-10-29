@@ -34,3 +34,23 @@ source /env/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+### O que será feito na aplicação
+
+ - [ ] Menu - Nome do usuário.
+ - [ ] Menu - Todas as listas.
+ - [ ] Menu - Hoje.
+ - [ ] Menu - Próximos 7 dias.
+ - [ ] Menu - Calendário.
+ - [ ] Menu - Configurações.
+ - [ ] Menu - Etiquetas.
+ - [ ] Criar lista de tarefas com um tema específico.
+ - [ ] Adicionar tarefa.
+ - [ ] Editar tarefa.
+ - [ ] Excluir tarefa.
+ - [ ] Marcar como feita.
+ - [ ] Incluir seção.
+ - [ ] Exibir, na mesma tela, as tarefas pendentes e as concluídas (opcional).
+ - [ ] Compartilhar Lista com outra pessoa.
+ - [ ] Ordenar da Lista.
+ - [ ] Tarefas diárias (Se repetem em muitos dias).
